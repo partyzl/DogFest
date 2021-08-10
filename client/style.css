@@ -5,9 +5,10 @@ body{
     font-family: 'Indie Flower', cursive;
 }
 
-h1{
+h1, h2{
     text-align: center;
     margin-bottom: 15px;
+    margin-top: 15px;
 }
 
 h5 {
@@ -29,3 +30,9 @@ h5 {
 .card-header{
     text-decoration: underline;
 }
+
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+  
