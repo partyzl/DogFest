@@ -1,5 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
 body{
     background-color: lightgray;
+    font-family: 'Indie Flower', cursive;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 15px;
 }
 
 h5 {
@@ -8,4 +16,16 @@ h5 {
 
 .navbar {
     margin-bottom: 10px;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.card-title{
+    border: 1px black solid;
+}
+
+.card-header{
+    text-decoration: underline;
 }
